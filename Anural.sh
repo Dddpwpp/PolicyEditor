@@ -6,7 +6,7 @@ if [ $(id -u) -ne 0 ]; then
 fi
 
 echo "+##############################################+"
-echo "# Welcome To Pollen!                           #"
+echo "# Welcome To Anural!                           #"
 echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
@@ -145,4 +145,4 @@ cp -a -L /etc/* /tmp/overlay/etc 2> /dev/null
 mount --bind /tmp/overlay/etc /etc
 
 echo ""
-echo "Pollen has been successfully applied!"
+echo "Anural has been successfully applied!"
