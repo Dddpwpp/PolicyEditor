@@ -1,6 +1,6 @@
 # Anural
 chromeOS User Policy Editor
-![Anural](/Anuraa.jpg)
+![Anural](/ANURAL.png)
 
 ## How to use this
 - Normal method
