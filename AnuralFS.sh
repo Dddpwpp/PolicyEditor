@@ -6,7 +6,7 @@ if [ $(id -u) -ne 0 ]; then
 fi
 
 echo "+##############################################+"
-echo "# Welcome To PollenFS!                         #"
+echo "# Welcome To AnuralFS!                         #"
 echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
@@ -44,4 +44,4 @@ printf '
 ' > /etc/opt/chrome/policies/managed/pollen.json
 
 echo ""
-echo "PollenFS has been successfully applied!"
+echo "AnuralFS has been successfully applied!"
