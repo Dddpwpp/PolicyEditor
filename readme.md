@@ -1,6 +1,6 @@
 # Anural
 chromeOS User Policy Editor
-![Anural](/ANURAL.svg)
+![Anural](/anuraa.svg)
 
 ## How to use this
 - Normal method
