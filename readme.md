@@ -31,6 +31,6 @@ chromeOS User Policy Editor
 
  ## Credits
  - Anural Developer - Xotic
- - Bug fixes - r58playz
- - Idea - Rafflesia
+ - Additionl fixes - r58playz
+ - Bug fixes - Rafflesia
  - Logo - Nitelite
