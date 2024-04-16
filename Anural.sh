@@ -79,6 +79,7 @@ echo '{
   "DeviceGuestModeEnabled": "true",
   "DeviceUnaffiliatedCrostiniAllowed": "true",
   "KerberosAddAccountsAllowed": "true",
+  "KerberosEnabled": "true",
   "VirtualMachinesAllowed": "true",
   "CrostiniAllowed": "true",
   "DefaultCookiesSetting": "1",
