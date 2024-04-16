@@ -53,6 +53,7 @@ echo '{
   "AllowKioskAppControlChromeVersion": true,
   "AttestationExtensionAllowlist": null,
   "AttestationEnabledForUser": true,
+  "AllowSystemNotifications": true,
   "IncognitoModeAvailability": 0,
   "AllowScreenLock": true,
   "ArcAppInstallEventLoggingEnabled": false,
