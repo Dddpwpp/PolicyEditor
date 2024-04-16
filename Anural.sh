@@ -157,6 +157,7 @@ echo '{
   "UnaffiliatedArcAllowed": "true",
   "UnaffiliatedDeviceArcAllowed": "true",
   "BookmarkBarEnabled": "true",
+  "BlockExternalExtensions": "false",
   "BlockThirdPartyCookies": "false",
   "ArcPolicy": {
     "playStoreMode": "ENABLED",
