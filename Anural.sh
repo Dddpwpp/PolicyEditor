@@ -41,6 +41,7 @@ echo '{
   "DeviceRebootOnUserSignout": 1,
   "DeviceWiFiFastTransitionEnabled": true,
   "DownloadRestrictions": 0,
+  "DeviceLoginScreenAccessibilityShortcutsEnabled": "not set",
   "HideWebStoreIcon": false,
   "HomepageIsNewTabPage": true,
   "HomepageLocation": "",
