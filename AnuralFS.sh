@@ -16,7 +16,7 @@ echo "# - Rafflesia                                  #"
 echo "# - Scaratek                                   #"
 echo "# - r58Playz                                   #"
 echo "+##############################################+"
-echo "Thanks to Xotic for the work, o7"
+echo "May Ultrablue rest in piece, o7"
 
 sleep 1
 
