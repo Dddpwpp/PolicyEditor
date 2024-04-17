@@ -28,7 +28,7 @@ printf '
     "SystemFeaturesDisableList": [], 
     "EditBookmarksEnabled": true, 
     "ChromeOsMultiProfileUserBehavior": "unrestricted", 
-    "DeveloperToolsAvailability": 1, 
+    "DeveloperToolsAvailability": 1,
     "DefaultPopupsSetting": 1, 
     "AllowDeletingBrowserHistory": true, 
     "AllowDinosaurEasterEgg": true, 
@@ -49,6 +49,11 @@ printf '
     "DevicePowerwashAllowed": true,
     "LacrosAvailability": "user_choice", 
     "InstantTetheringAllowed": true,
+    "SafeSitesFilterBehavior": 0,
+    "SafeBrowsingProtectionLevel": 0,
+    "DownloadRestrictions": 0,
+    "ProxyMode": "system",
+    "ProxyServerMode": "system",
     "WallpaperImage": null
 }
 ' > /etc/opt/chrome/policies/managed/pollen.json
