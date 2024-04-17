@@ -24,6 +24,7 @@ mkdir -p /etc/opt/chrome/policies/managed
 printf '
 {
     "URLBlocklist": [], 
+    "URLAllowlist": [],
     "SystemFeaturesDisableList": [], 
     "EditBookmarksEnabled": true, 
     "ChromeOsMultiProfileUserBehavior": "unrestricted", 
@@ -31,6 +32,7 @@ printf '
     "DefaultPopupsSetting": 1, 
     "AllowDeletingBrowserHistory": true, 
     "AllowDinosaurEasterEgg": true, 
+    "DisableSafeBrowsingProceedAnyway": false,
     "IncognitoModeAvailability": 0, 
     "AllowScreenLock": true, 
     "ExtensionAllowedTypes": null, 
@@ -38,7 +40,15 @@ printf '
     "ExtensionInstallBlocklist": null, 
     "ExtensionInstallForcelist": null, 
     "ExtensionSettings": null, 
+    "ForceGoogleSafeSearch": false,
+    "ForceYouTubeRestrict": 0,
+    "DeviceAllowNewUsers": true,
+    "DeviceGuestModeEnabled": true,
+    "DeveloperToolsDisabled": false,
+    "DeviceBlockDevmode": false,
+    "DevicePowerwashAllowed": true,
     "LacrosAvailability": "user_choice", 
+    "InstantTetheringAllowed": true,
     "WallpaperImage": null
 }
 ' > /etc/opt/chrome/policies/managed/pollen.json
