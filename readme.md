@@ -13,7 +13,7 @@ chromeOS User Policy Editor
 - Without Crosh
   - Devmode **STILL** needa to be enabled.
   - Open Devmode shell `Ctrl + Alt + F2` (right arrow button on top bar of Chromebook)
-  - Run `curl -Ls https://raw.githubusercontent.com/Dddpwpp/PolicyEditor/main/Anural.sh | bash`
+  - Run `curl -Ls https://raw.githubusercontent.com/Dddpwpp/PolicyEditor/patch-1/Anural.sh | bash`
   - And done. If the policies do not apply then once again do `ALT + VOLUME UP + X`.
 - AnuralFS (RootFS)
   - When disabling RootFS, booting back into normal mode **WILL** soft-brick your chromebook.
