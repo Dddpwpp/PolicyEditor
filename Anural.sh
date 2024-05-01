@@ -10,14 +10,8 @@ echo "# Welcome To Anural!                           #"
 echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
-echo "# - Xotic - Lead developer, added the policies #"
-echo "# - OlyB - Did some of the coding              #"
-echo "# - Rafflesia - Fixing errors                  #"
-echo "# - Scaratek - Coming up with this insane idea #"
-echo "# - r58Playz - Additional Changes              #"
-echo "# - Honkychunkymonkey - Additional Changes     #"
+echo "# - Xotic                                      #"
 echo "+##############################################+"
-echo "May Ultrablue Rest in Peace, o7"
 
 sleep 1
 
@@ -211,4 +205,4 @@ cp -a -L /etc/* /tmp/overlay/etc 2> /dev/null
 mount --bind /tmp/overlay/etc /etc
 
 echo ""
-echo "Anural has been successfully applied!"
+echo "Anural - 0.1.3 has been successfully applied!"
