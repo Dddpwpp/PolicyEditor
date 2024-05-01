@@ -8,7 +8,7 @@ chromeOS User Policy Editor
   - Open Crosh (CTRL + ALT + T)
   - Run `shell`
   - Run `sudo su`
-  - Run `curl -Ls https://raw.githubusercontent.com/Dddpwpp/PolicyEditor/main/Anural.sh | bash`
+  - Run `curl -Ls https://raw.githubusercontent.com/Dddpwpp/PolicyEditor/patch-1/Anural.sh | bash`
   - Done! It could take a little bit of time to apply. If they do not apply, press `ALT + VOLUME UP + X`.
 - Without Crosh
   - Devmode **STILL** needa to be enabled.
