@@ -21,6 +21,14 @@ echo "May Ultrablue Rest in Peace, o7"
 
 sleep 1
 
+# Check if the policy.json already exists and back it up as old.policies.json
+POLICY_FILE="/etc/opt/chrome/policies/managed/policy.json"
+BACKUP_DIR="/home/chronos/user/Downloads"
+if [ -f "$POLICY_FILE" ]; then
+    echo "Backing up existing policy.json to $BACKUP_DIR/old.policies.json"
+    cp "$POLICY_FILE" "$BACKUP_DIR/old.policies.json"
+fi
+
 mkdir -p /tmp/overlay/etc/opt/chrome/policies/managed
 echo '{
   "URLBlocklist": [],
