@@ -1,5 +1,5 @@
 # Anural
-chromeOS User Policy Editor
+ChromeOS User Policy Editor
 ![Anural](/ANURAL1221.svg)
 
 ## How to use this
