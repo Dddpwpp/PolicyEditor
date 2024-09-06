@@ -11,13 +11,7 @@ echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
 echo "# - Xotic - Lead developer, added the policies #"
-echo "# - OlyB - Did some of the coding              #"
-echo "# - Rafflesia - Fixing errors                  #"
-echo "# - Scaratek - Coming up with this insane idea #"
-echo "# - r58Playz - Additional Changes              #"
-echo "# - Honkychunkymonkey - Additional Changes     #"
 echo "+##############################################+"
-echo "May Ultrablue Rest in Peace, o7"
 
 sleep 1
 
@@ -32,6 +26,7 @@ echo '{
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "ChromeOsLockOnIdleSuspend": false,
   "CookiesAllowedForUrls": [],
+  "ColorCorrectionEnabled": true.
   "DeveloperToolsAvailability": 1,
   "DefaultPopupsSetting": 1,
   "DeviceDataRoamingEnabled": true,
@@ -60,6 +55,7 @@ echo '{
   "AllowSystemNotifications": true,
   "IncognitoModeAvailability": 0,
   "AllowScreenLock": true,
+  "AutoclickEnabled": true,
   "ArcAppInstallEventLoggingEnabled": false,
   "AutoFillEnabled": true,
   "ExtensionAllowedTypes": null,
