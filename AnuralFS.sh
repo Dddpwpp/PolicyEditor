@@ -11,12 +11,7 @@ echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
 echo "# - Xotic                                      #"
-echo "# - OlyB                                       #"
-echo "# - Rafflesia                                  #"
-echo "# - Scaratek                                   #"
-echo "# - r58Playz                                   #"
 echo "+##############################################+"
-echo "May Ultrablue rest in piece, o7"
 
 sleep 1
 
