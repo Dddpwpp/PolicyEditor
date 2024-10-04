@@ -10,7 +10,7 @@ echo "# Welcome To Anural!                           #"
 echo "# The User Policy Editor                       #"
 echo "# -------------------------------------------- #"
 echo "# Developers:                                  #"
-echo "# - Xotic - Lead developer, added the policies #"
+echo "# - Hellsquiet - Lead developer                #"
 echo "+##############################################+"
 
 sleep 1
